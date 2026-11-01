@@ -1,6 +1,6 @@
 <div align="center">
 
-## Adhikdev's Desktop
+## GOTH-x
 
 A simple, lightweight Hyprland setup focused on productivity, practical keyboard shortcuts, and easy customization.
 
