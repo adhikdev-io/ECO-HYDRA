@@ -1,13 +1,11 @@
 <div align="center">
 
-## 43PR Desktop
+## Adhikdev's Desktop
 
 A simple, lightweight Hyprland setup focused on productivity, practical keyboard shortcuts, and easy customization.
 
 ![Hyprland](https://img.shields.io/badge/Hyprland-0.56.2-8b9aaf?style=for-the-badge&labelColor=101418)
-[![Discord](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FHQwU9SzHj%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&style=for-the-badge&logo=discord&logoColor=ffffff&label=discord&labelColor=101418&color=7289a8)](https://discord.gg/HQwU9SzHj)
-[![YouTube](https://img.shields.io/badge/youtube-subscribe-b05a63?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=101418)](https://www.youtube.com/@43PR2)
-[![Ko-Fi donate](https://img.shields.io/badge/donate-kofi?style=for-the-badge&logo=ko-fi&logoColor=ffffff&label=ko-fi&labelColor=101418&color=9a6570)](https://ko-fi.com/43pr)
+[![Discord](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FHQwU9SzHj%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&style=for-the-badge&logo=discord&logoColor=ffffff&label=discord&labelColor=101418&color=7289a8)](https://discord.com/users/1160157583903039553)
 
 ### **[Features](#features)  -  [Keyboard Shortcuts](#keyboard-shortcuts)  -  [Installation](#installation) -  [Updating](#updating)**
 
@@ -49,10 +47,11 @@ You can find the full list under [Keyboard Shortcuts](#keyboard-shortcuts). You 
 
 - Log out and back in once the installer is finished.
 - Wallpapers are not included in the installation. Download some and put them in `Pictures/Wallpapers`.
+- To add wallpapers, create a `Wallpapers` folder inside `Pictures` and put your wallpapers in it. Open the wallpaper picker with `Super + W`.
 
 ### Something isn’t working. Where can I ask for help?
 
-Join the [Discord](https://discord.gg/HQwU9SzHj).
+Join the [Discord](https://discord.com/users/1160157583903039553).
 
 </details>
 
@@ -61,7 +60,8 @@ Join the [Discord](https://discord.gg/HQwU9SzHj).
 - **Fast and lightweight Quickshell** — Optimized desktop components that are fast and easy to customize.
 - **Top bar** — Customizable bar with a settings menu and quick-access features.
 - **Settings** — System, network, Bluetooth, display, audio, storage, themes, and more.
-- **Wallpaper picker and dynamic colors** — Custom wallpaper picker with automatic color generation from the wallpaper.
+- **Wallpaper picker and dynamic colors** — Easily change wallpapers with the built-in picker. To add your own, create a `Wallpapers` folder inside `Pictures` and put your wallpapers in it. Colors are generated automatically from the selected wallpaper.
+
 - **Preconfigured themes** — Monochrome, Nord, Tokyo Night, and other popular themes, with support for custom themes.
 - **App launcher** — App search with **Rofi**, clipboard history, and opacity control.
 - **Zsh + Starship** — Customizable shell with autosuggestions and history.
@@ -178,3 +178,6 @@ Check the displayed notes at the end of the process.
 >
 > to restart Quickshell automatically.
 </text-pasted-mx7uczkm13>
+<br>
+> Credit: [43PR](https://github.com/43PR)
+
