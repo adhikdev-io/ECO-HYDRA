@@ -18,6 +18,8 @@ A simple, lightweight Hyprland setup focused on productivity, practical keyboard
 </div>
 
 <img width="1920" height="1080" alt="1792462138" src="https://github.com/user-attachments/assets/10324a99-1038-431f-9f64-0183e2e04276" />
+<br>
+<img width="1920" height="1080" src="1793539845" />
 
 <details>
 <summary><b>What is this? New to this?</b></summary>
