@@ -1,6 +1,6 @@
 <div align="center">
 
-## GOTH-x
+## ECO-HYDRA
 
 A simple, lightweight Hyprland setup focused on productivity, practical keyboard shortcuts, and easy customization.
 
@@ -19,7 +19,7 @@ A simple, lightweight Hyprland setup focused on productivity, practical keyboard
 
 <img width="1920" height="1080" alt="1792462138" src="https://github.com/user-attachments/assets/10324a99-1038-431f-9f64-0183e2e04276" />
 <br>
-<img width="1920" height="1080" alt="1793539845" src="https://github.com/adhikdev-io/My-Hyprland/blob/main/1793539845.png" />
+<img width="1920" height="1080" alt="1793539845" src="https://github.com/adhikdev-io/ECO-HYDRA/blob/main/1793539845.png" />
 
 <details>
 <summary><b>What is this? New to this?</b></summary>
